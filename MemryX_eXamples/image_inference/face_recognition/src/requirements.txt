@@ -1,0 +1,5 @@
+numpy>=1.21.0
+opencv-python==4.11.0.86
+Pillow>=8.0.0
+matplotlib>=3.3.0
+kagglehub>=0.2.0
